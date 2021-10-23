@@ -1,4 +1,8 @@
 Hai this my first git session
 
+<<<<<<< HEAD
 
 idhi 3va line anta
+=======
+nenu ipudu nerchukuntumna git
+>>>>>>> 970acfcc355a3c8446fec5d1420fd6c415036d23
